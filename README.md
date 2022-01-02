@@ -17,3 +17,6 @@ A few basic PILLOW functions to help with image processing
 13. Edge Detection with
 14. Change the colour of the edge
 15. Saving the image back to the drive/computer
+
+
+and The second workshop provides an introduction to basic image processing techniques using the OpenCV computer vision library and some standard data analysis libraries in Python.
